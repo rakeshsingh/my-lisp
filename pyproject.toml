@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "my-lisp"
+version = "0.1.0"
+description = "My minimal lisp implementation in Python. inspired from https://norvig.com/lispy.html"
+authors = ["Rakesh Singh"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
