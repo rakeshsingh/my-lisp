@@ -1,2 +1,2 @@
 # my-lisp
-my minimal lisp implementation in python
+My minimal lisp implementation in Python. inspired from https://norvig.com/lispy.html
